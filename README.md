@@ -62,7 +62,7 @@ Power Bi: https://app.powerbi.com/view?r=eyJrIjoiNTgzMjdhNGItMzZlZi00N2U2LTkyNTg
     <a href="https://www.linkedin.com/in/lais-villa-205614127/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15px"></a>
   </td>
   <td align="center">
-    <a href="[https://github.com/gsoares28](https://github.com/adsguss)">
+    <a href="https://github.com/adsguss">
     <img src="https://avatars.githubusercontent.com/u/145174123?v=4" width="100px;" alt="Gustavo Oliveira"/><br>
     <sub>
       <b>Gustavo Oliveira</b>
